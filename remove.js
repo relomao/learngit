@@ -3,3 +3,5 @@ remove.js
 new
 
 test
+
+test2
